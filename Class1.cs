@@ -1,6 +1,7 @@
-﻿namespace GitHubActionTests;
-
-public class Class1
+﻿namespace GitHubActionTests
 {
+    public class Class1
+    {
 
+    }
 }
